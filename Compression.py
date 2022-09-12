@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 31 00:19:15 2019
-
-@author: Narayanan Krishna
-"""
+#Shaposhnik Vladislav IB/b-21-1-o Today is 12 September
 
 import matplotlib.pyplot as plt
 import numpy as np
